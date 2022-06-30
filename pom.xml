@@ -12,7 +12,7 @@
 	<artifactId>spring5-jokes-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring5-jokes-app</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring MVC Chuck Norris Jokes App</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
